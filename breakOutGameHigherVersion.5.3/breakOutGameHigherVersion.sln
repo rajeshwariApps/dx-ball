@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2DE07045-0948-FD6F-6933-0F9214415309}") = "breakOutGameHigherVersion", "Assembly-UnityScript.unityproj", "{6B66F370-ADB2-EFC0-CB62-1E14E5CD723D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B66F370-ADB2-EFC0-CB62-1E14E5CD723D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B66F370-ADB2-EFC0-CB62-1E14E5CD723D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B66F370-ADB2-EFC0-CB62-1E14E5CD723D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B66F370-ADB2-EFC0-CB62-1E14E5CD723D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
